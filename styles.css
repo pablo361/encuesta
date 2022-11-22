@@ -1,0 +1,13 @@
+:root{
+    --azul-ucasal: #004180;
+    --rojo-ucasal: #c7181f;
+
+}
+
+.azul-ucasal{
+    color: var(--azul-ucasal);
+}
+
+.boton-azul-ucasal{
+    background-color: var(--azul-ucasal) !important;
+}
